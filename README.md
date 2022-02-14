@@ -4,6 +4,8 @@
   </a>
 </p>
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://github.com/micku92/metaplex/)
+
 Metaplex is a protocol built on top of Solana that allows:
 
 - **Creating/Minting** Non-Fungible Tokens;
