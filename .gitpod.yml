@@ -1,0 +1,8 @@
+tasks:
+  - init: |
+      npm install --global  yarn ts-node
+      yarn install --cwd /workspace/metaplex/js/
+      yarn install --cwd /workspace/metaplex/js/packages/candy-machine-ui
+
+image:
+  file: .gitpod.Dockerfile
